@@ -1,0 +1,29 @@
+html {
+  background-color: #7EB2AE;
+  color: #19191C;
+}
+
+* {
+  font-weight: bold !important;
+}
+
+a {
+  color: #30474D;
+}
+
+div.homepage h1 {
+  font-size: 800%;
+}
+
+div.homepage p {
+  font-size: 300%;
+  color: #FEF2C4;
+}
+
+div#ft {
+  margin-top: 2em;
+}
+
+p {
+  margin-bottom: 1em;
+}
